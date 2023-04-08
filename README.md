@@ -1,1 +1,1 @@
-ultralytics 8.1.15 add Python 3.12 compatibility (#8210)
+Add HeatMap guide in real-world-projects + Code in Solutions Directory (#6796)
