@@ -1,1 +1,1 @@
-Update pyproject.toml and Docs (#7274)
+Auto-format by https://ultralytics.com/actions
