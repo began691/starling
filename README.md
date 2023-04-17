@@ -1,1 +1,1 @@
-Auto-format by https://ultralytics.com/actions
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
