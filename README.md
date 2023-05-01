@@ -1,1 +1,1 @@
-Add simple-utilities.md Docs page (#8269)
+Fix TypeError in check_cfg() (#9245)
