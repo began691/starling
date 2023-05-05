@@ -1,1 +1,1 @@
-Fix IS_PYTHON_3_12 bug (#9258)
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)
