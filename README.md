@@ -1,1 +1,1 @@
-New test for labels and crops (#8861)
+Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
