@@ -1,1 +1,1 @@
-ultralytics 8.0.238 Explorer Ask AI feature and fixes (#7408)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
