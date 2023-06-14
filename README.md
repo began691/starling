@@ -1,1 +1,1 @@
-Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
+ultralytics 8.1.1 Docs, Solutions and Export updates (#7545)
