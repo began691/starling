@@ -1,1 +1,1 @@
-Feature: Create HUB Models from CLI or Python Script (#7316)
+Both Link Opening Options - Have both the Open in Background option and the Open in New Tab option available alongside each other
