@@ -1,1 +1,1 @@
-Mkdocs annotations fixes (#7600)
+Update YOLOv3 and YOLOv5 YAMLs (#7574)
