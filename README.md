@@ -1,1 +1,1 @@
-Add domain checks to CI docs page (#8714)
+Replace onnx2tf usage from CLI to Python (#8429)
