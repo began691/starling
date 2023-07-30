@@ -1,1 +1,1 @@
-Feature: Create HUB Models from CLI or Python Script (#7316)
+Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
