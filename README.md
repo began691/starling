@@ -1,1 +1,1 @@
-Bounding Box to OBB conversion (#7572)
+Python refactorings and simplifications (#7549)
