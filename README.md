@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+Add visuals in guides/distance-calculation.md (#7876)
