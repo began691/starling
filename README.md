@@ -1,1 +1,1 @@
-Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
