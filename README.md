@@ -1,1 +1,1 @@
-Remove JAX constraints in Exporter (#8309)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
