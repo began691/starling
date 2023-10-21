@@ -1,1 +1,1 @@
-Try Apple M1 runners for Tests and Benchmarks CI (#8162)
+Pin duckdb<=0.9.2 to avoid 0.10.0 errors (#8181)
