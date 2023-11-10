@@ -1,1 +1,1 @@
-YAML reformat (#7669)
+* fix for predicting with batch_size > 1
