@@ -1,1 +1,1 @@
-* fix for predicting with batch_size > 1
+Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
