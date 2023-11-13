@@ -1,1 +1,1 @@
-Updated SQL Query Plot Code (#8120)
+Update fraction arg to employ a random selection (#8234)
