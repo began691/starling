@@ -1,1 +1,1 @@
-Add PR Summary step to Ultralytics Actions (#7675)
+Resize angle, count, and stage on keypoint number change (#7598)
