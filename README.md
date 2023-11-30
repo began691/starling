@@ -1,1 +1,1 @@
-Resize angle, count, and stage on keypoint number change (#7598)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
