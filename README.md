@@ -1,1 +1,1 @@
-Update Discord and Contributing Guide URLs (#9270)
+Update the heatmap module code + docs (#7045)
