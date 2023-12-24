@@ -1,1 +1,1 @@
-Add TF GraphDef Docs Integrations Page (#9203)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
