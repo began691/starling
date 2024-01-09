@@ -1,1 +1,1 @@
-Add TFLite Docs Integrations Page (#8522)
+Add dota8.yaml and O tests (#7394)
