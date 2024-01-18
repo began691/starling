@@ -1,1 +1,1 @@
-ultralytics 8.1.27 batched tracking fixes (#8842)
+YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
