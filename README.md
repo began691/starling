@@ -1,1 +1,1 @@
-Adds toggle displaying labels in GUI and verbose log on start (#7804)
+Both Link Opening Options - Have both the Open in Background option and the Open in New Tab option available alongside each other
