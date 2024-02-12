@@ -1,1 +1,1 @@
-Explorer with LanceDB, Actions and Docs updates (#7487)
+Both Link Opening Options - Have both the Open in Background option and the Open in New Tab option available alongside each other
