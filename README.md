@@ -1,1 +1,1 @@
-added badges (#45)
+Add C++ Classify inference example (#6868)
