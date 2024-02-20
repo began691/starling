@@ -1,1 +1,1 @@
-Explorer API video https://youtu.be/3VryynorQeo  (#7838)
+ultralytics 8.1.13 fix yolo train time= bug (#8179)
