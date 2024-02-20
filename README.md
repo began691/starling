@@ -1,1 +1,1 @@
-ultralytics 8.0.229 add model.embed() method (#7098)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
