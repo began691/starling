@@ -1,1 +1,1 @@
-Update OpenVINO INT8 export (#7515)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
