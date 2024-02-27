@@ -1,1 +1,1 @@
-Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
+Add PaddlePaddle Docs Integrations Page (#8858)
