@@ -1,1 +1,1 @@
-OBB: Fix plot_images (#7592)
+Add missing single-line docstrings (#8362)
