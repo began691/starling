@@ -1,1 +1,1 @@
-Update the heatmap module code + docs (#7045)
+Add TensorRT Docs Integrations Page (#7855)
