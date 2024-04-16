@@ -1,1 +1,1 @@
-Fix bbox2segment converter (#7814)
+Python refactorings and simplifications (#7549)
