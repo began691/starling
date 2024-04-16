@@ -1,1 +1,1 @@
-Python refactorings and simplifications (#7549)
+Updated SQL Query Plot Code (#8120)
