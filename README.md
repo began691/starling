@@ -1,1 +1,1 @@
-Add distance calculation feature in vision-eye (#8616)
+Update CI.md with CI links (#8786)
