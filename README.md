@@ -1,1 +1,1 @@
-Add integrations/gradio Docs page (#7935)
+Add plot_images conf_thresh parameter (#8446)
