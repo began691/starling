@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
