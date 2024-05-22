@@ -1,1 +1,1 @@
-Add integrations/gradio Docs page (#7935)
+Fix PIL show() and save() (#8202)
