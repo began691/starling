@@ -1,1 +1,1 @@
-Add type hinting to explorer.py (#7388)
+Add integrations/gradio Docs page (#7935)
