@@ -1,1 +1,1 @@
-Add horizontal Mosaic3 augmentation (#6898)
+fix yolo classify model loading error (#9196)
