@@ -1,1 +1,1 @@
-ultralytics 8.0.224 Counting and Heatmaps updates (#6855)
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
