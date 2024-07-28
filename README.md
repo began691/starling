@@ -1,1 +1,1 @@
-Add OBB benchmarks to CI (#7777)
+Fix solution functions description + integrations/openvino.md cover image update (#8170)
