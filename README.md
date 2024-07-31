@@ -1,1 +1,1 @@
-Add type hinting to explorer.py (#7388)
+Add TensorRT Docs Integrations Page (#7855)
