@@ -1,1 +1,1 @@
-Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
+YOLOv8 INT8 TFLite Inference Example (#7317)
