@@ -1,1 +1,1 @@
-Avoid creating -hub dir without processing images (#8334)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
