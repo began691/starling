@@ -1,1 +1,1 @@
-Docs partial mdformat improvements (#7378)
+docs: update view-results-in-terminal.md (#66)
