@@ -1,1 +1,1 @@
-docs: update view-results-in-terminal.md (#66)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
