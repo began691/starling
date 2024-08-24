@@ -1,1 +1,1 @@
-Faster batch same_shapes (#8851)
+Fix PNNX ubuntu -> linux bug (#7050)
