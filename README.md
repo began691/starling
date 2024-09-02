@@ -1,1 +1,1 @@
-Improve Coral Edge TPU guide (#8160)
+fix export tensorrt with dynamic size
