@@ -1,1 +1,1 @@
-fix predict with class filter
+Optimize TFJS export on ARM64 (#8946)
