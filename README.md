@@ -1,1 +1,1 @@
-Fix PNNX ubuntu -> linux bug (#7050)
+Fix Yolo 8.0.206 scale bug (#7821)
