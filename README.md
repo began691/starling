@@ -1,1 +1,1 @@
-Optimize function calls to method calls (#8507)
+Compress explorer image in dataset/index.md + description added for new segmentation datasets (#7901)
