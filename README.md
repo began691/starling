@@ -1,1 +1,1 @@
-Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
