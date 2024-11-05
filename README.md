@@ -1,1 +1,1 @@
-Fix solution functions description + integrations/openvino.md cover image update (#8170)
+Explorer API video https://youtu.be/3VryynorQeo  (#7838)
