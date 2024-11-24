@@ -1,1 +1,1 @@
-Adds toggle displaying labels in GUI and verbose log on start (#7804)
+Add object blurring & object cropping modules in Ultralytics docs (#7434)
