@@ -1,1 +1,1 @@
-Add object blurring & object cropping modules in Ultralytics docs (#7434)
+Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
